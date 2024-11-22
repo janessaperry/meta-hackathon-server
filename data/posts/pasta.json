@@ -1,0 +1,8 @@
+{
+    "pageData": {
+        "type": "posts",
+        "images": [
+            "http://localhost:8080/images/image1.jpg"
+        ]
+    }
+}
