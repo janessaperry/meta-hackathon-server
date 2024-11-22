@@ -12,8 +12,7 @@
         "profilePhoto": "http://localhost:8080/images/pasta5.jpg"}
     ],
    "content":
-    [
-        
+    [    
         {
             "profileName": "@spaghettifactory",
             "profilePhoto": "http://localhost:8080/images/pasta.jpg",
