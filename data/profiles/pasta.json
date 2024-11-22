@@ -4,11 +4,32 @@
         "profiles": [
             {
                 "profileName": "Old Spaghetti Factory",
-                "profilePhoto": "http://localhost:8080/images/pastaPlaceholder.jpg",
+                "profileAccount": "@spaghettifactory",
+                "profilePhoto": "http://localhost:8080/images/pasta.jpg",
                 "profilePosts": [
-                    "http://localhost:8080/images/pastaPlaceholder.jpg",
-                    "http://localhost:8080/images/pastaPlaceholder.jpg",
-                    "http://localhost:8080/images/pastaPlaceholder.jpg"
+                    "http://localhost:8080/images/pasta1.jpg",
+                    "http://localhost:8080/images/pasta2.jpg",
+                    "http://localhost:8080/images/pasta3.jpg"
+                ]
+            },
+            {
+                "profileName": "Nicolino's",
+                "profileAccount": "@nicolinosrestaurant",
+                "profilePhoto": "http://localhost:8080/images/pasta4.jpg",
+                "profilePosts": [
+                    "http://localhost:8080/images/pasta5.jpg",
+                    "http://localhost:8080/images/pasta6.jpg",
+                    "http://localhost:8080/images/pasta7.jpg"
+                ]
+            },
+            {
+                "profileName": "Pasta Di Casa",
+                "profileAccount": "@pastadicasa",
+                "profilePhoto": "http://localhost:8080/images/pasta8.jpg",
+                "profilePosts": [
+                    "http://localhost:8080/images/pasta8.jpg",
+                    "http://localhost:8080/images/pasta9.jpg",
+                    "http://localhost:8080/images/pasta10.jpg"
                 ]
             }
         ]
