@@ -36,7 +36,7 @@ app.get("/profiles/:id", (req,res)=>{
     res.json(data)
 })
 
-app.get("/posts", (req,res)=>{
+app.get("/", (req,res)=>{
     let data = JSON.parse(fs.readFileSync(`./data/defaultImages.json`))
     res.json(data)
 })

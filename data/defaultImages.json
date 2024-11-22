@@ -1,20 +1,44 @@
+   { 
+    "reels":[
+        {"profileName": "@reel1",
+        "profilePhoto": "http://localhost:8080/images/pastaPlaceholder.jpg",
+        "image": "http://localhost:8080/images/pastaPlaceholder.jpg"},
+        {"profileName": "@reel2",
+        "profilePhoto": "http://localhost:8080/images/pastaPlaceholder.jpg",
+        "image": "http://localhost:8080/images/pastaPlaceholder.jpg"},
+        {"profileName": "@reel3",
+        "profilePhoto": "http://localhost:8080/images/pastaPlaceholder.jpg",
+        "image": "http://localhost:8080/images/pastaPlaceholder.jpg"},
+        {"profileName": "@reel4",
+        "profilePhoto": "http://localhost:8080/images/pastaPlaceholder.jpg",
+        "image": "http://localhost:8080/images/pastaPlaceholder.jpg"},
+        {"profileName": "@reel5",
+        "profilePhoto": "http://localhost:8080/images/pastaPlaceholder.jpg",
+        "image": "http://localhost:8080/images/pastaPlaceholder.jpg"}
+    ],
+   "content":
     [
+        
         {
             "profileName": "@spaghettifactory",
             "profilePhoto": "http://localhost:8080/images/pastaPlaceholder.jpg",
             "image": "http://localhost:8080/images/pastaPlaceholder.jpg",
+            "likes":107,
             "description": "Tasty pasta!"
         },
         {
             "profileName": "@catitsakittycat",
             "profilePhoto": "http://localhost:8080/images/pastaPlaceholder.jpg",
             "image": "http://localhost:8080/images/pastaPlaceholder.jpg",
+            "likes":24337,
             "description": "at least he's cute..."
         },
         {
             "profileName": "@easymeals",
             "profilePhoto": "http://localhost:8080/images/pastaPlaceholder.jpg",
             "image": "http://localhost:8080/images/pastaPlaceholder.jpg",
+            "likes":1337,
             "description": "Authentic Bolognese in 30 min..."
         }
     ]
+}
