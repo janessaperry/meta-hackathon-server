@@ -1,0 +1,16 @@
+{
+    "pageData": {
+        "type": "profiles",
+        "profiles": [
+            {
+                "profileName": "Old Spaghetti Factory",
+                "profilePhoto": "http://localhost:8080/images/image1.jpg",
+                "profilePosts": [
+                    "http://localhost:8080/images/image1.jpg",
+                    "http://localhost:8080/images/image1.jpg",
+                    "http://localhost:8080/images/image1.jpg"
+                ]
+            }
+        ]
+    }
+}
