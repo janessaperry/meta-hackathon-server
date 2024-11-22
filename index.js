@@ -36,6 +36,11 @@ app.get("/profiles/:id", (req,res)=>{
     res.json(data)
 })
 
+app.get("/posts", (req,res)=>{
+    let data = JSON.parse(fs.readFileSync(`./data/defaultImages.json`))
+    res.json(data)
+})
+
 
 /*
 
@@ -59,5 +64,28 @@ profileObj
     profilePhoto:path,
     profilePosts:[imgPath,imgPath,imgPath]
     }
+
+defaultImages:
+
+    [
+        {
+            "profileName": "@name",
+            "profilePhoto": "imgPath",
+            "image": "imgPath",
+            "description": "description"
+        },
+        {
+            "profileName": "@name",
+            "profilePhoto": "imgPath",
+            "image": "imgPath",
+            "description": "description"
+        },
+        {
+            "profileName": "@name",
+            "profilePhoto": "imgPath",
+            "image": "imgPath",
+            "description": "description"
+        }
+    ]
 
 */

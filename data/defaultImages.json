@@ -1,0 +1,20 @@
+    [
+        {
+            "profileName": "@spaghettifactory",
+            "profilePhoto": "http://localhost:8080/images/pastaPlaceholder.jpg",
+            "image": "http://localhost:8080/images/pastaPlaceholder.jpg",
+            "description": "Tasty pasta!"
+        },
+        {
+            "profileName": "@catitsakittycat",
+            "profilePhoto": "http://localhost:8080/images/pastaPlaceholder.jpg",
+            "image": "http://localhost:8080/images/pastaPlaceholder.jpg",
+            "description": "at least he's cute..."
+        },
+        {
+            "profileName": "@easymeals",
+            "profilePhoto": "http://localhost:8080/images/pastaPlaceholder.jpg",
+            "image": "http://localhost:8080/images/pastaPlaceholder.jpg",
+            "description": "Authentic Bolognese in 30 min..."
+        }
+    ]
