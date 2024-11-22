@@ -2,7 +2,24 @@
     "pageData": {
         "type": "posts",
         "images": [
-            "http://localhost:8080/images/pastaPlaceholder.jpg"
+            "http://localhost:8080/images/pastaPlaceholder.jpg",
+            "http://localhost:8080/images/pasta.jpg",
+            "http://localhost:8080/images/pasta1.jpg",
+            "http://localhost:8080/images/pasta2.jpg",
+            "http://localhost:8080/images/pasta3.jpg",
+            "http://localhost:8080/images/pasta4.jpg",
+            "http://localhost:8080/images/pasta5.jpg",
+            "http://localhost:8080/images/pasta6.jpg",
+            "http://localhost:8080/images/pasta7.jpg",
+            "http://localhost:8080/images/pasta8.jpg",
+            "http://localhost:8080/images/pasta9.jpg",
+            "http://localhost:8080/images/pasta10.jpg",
+            "http://localhost:8080/images/pasta11.jpg",
+            "http://localhost:8080/images/pasta12.jpg",
+            "http://localhost:8080/images/pasta13.jpg",
+            "http://localhost:8080/images/pasta14.jpg",
+            "http://localhost:8080/images/pasta15.jpg",
+            "http://localhost:8080/images/pasta16.jpg"
         ]
     }
 }
